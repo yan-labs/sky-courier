@@ -1,0 +1,24 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  background: #0b1220;
+  color: #f4f6f8;
+  font-family: monospace, ui-monospace, monospace;
+}
+main {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 12px;
+}
+canvas {
+  display: block;
+  width: 100%;
+  height: auto;
+  background: #1d3a5f;
+  border: 1px solid rgba(255, 255, 255, 0.16);
+}
+.hint {
+  margin: 10px 2px 0;
+  font-size: 13px;
+  color: rgba(255, 255, 255, 0.6);
+}
